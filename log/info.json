@@ -1,0 +1,56 @@
+[
+    {
+        "type": "transform context",
+        "file": "C:/Users/xiaok/Desktop/wechat_baidu/wx2swan/pages/yiguo/cart/cart.js",
+        "row": 20,
+        "column": 4,
+        "before": "wx.navigateTo",
+        "after": "swan.navigateTo",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform context",
+        "file": "C:/Users/xiaok/Desktop/wechat_baidu/wx2swan/pages/yiguo/index/index.js",
+        "row": 74,
+        "column": 4,
+        "before": "wx.navigateTo",
+        "after": "swan.navigateTo",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform context",
+        "file": "C:/Users/xiaok/Desktop/wechat_baidu/wx2swan/pages/yiguo/list/list.js",
+        "row": 150,
+        "column": 4,
+        "before": "wx.navigateTo",
+        "after": "swan.navigateTo",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform context",
+        "file": "C:/Users/xiaok/Desktop/wechat_baidu/wx2swan/pages/yiguo/mine/mine.js",
+        "row": 50,
+        "column": 4,
+        "before": "wx.setStorageSync",
+        "after": "swan.setStorageSync",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform context",
+        "file": "C:/Users/xiaok/Desktop/wechat_baidu/wx2swan/pages/yiguo/mine/mine.js",
+        "row": 51,
+        "column": 4,
+        "before": "wx.setStorageSync",
+        "after": "swan.setStorageSync",
+        "message": "只转换了上下文, wx ==> swan"
+    },
+    {
+        "type": "transform context",
+        "file": "C:/Users/xiaok/Desktop/wechat_baidu/wx2swan/pages/yiguo/mine/mine.js",
+        "row": 60,
+        "column": 10,
+        "before": "wx.getUserInfo",
+        "after": "swan.getUserInfo",
+        "message": "只转换了上下文, wx ==> swan"
+    }
+]
